@@ -1,15 +1,4 @@
 @font-face {
     font-family: 'magic';
-    src: url('https://raw.githubusercontent.com/SullenaShlee/agua/main/magicRegular.woff2') format('woff2'),
-         url('https://raw.githubusercontent.com/SullenaShlee/agua/main/magicRegular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'magic';
-    src: url('https://raw.githubusercontent.com/SullenaShlee/agua/main/magicMedium.woff2') format('woff2'),
-         url('https://raw.githubusercontent.com/SullenaShlee/agua/main/magicMedium.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
+    src: url('https://raw.githubusercontent.com/SullenaShlee/agua/main/magicRegular.woff') format('woff');
 }
